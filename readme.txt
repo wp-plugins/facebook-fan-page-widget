@@ -14,13 +14,11 @@ An widget that will display Facebook Fan page like box. Uses new API of Facebook
 
 Facebook Fan Page widget comes with an widget that you can use on any widget areas. You can set Facebook Page url, Width, Height and other options.
 
-Pretty simple to use.
-
-<a href="http://l.themencode.com/ffpwvideo"> Video Overview</a>
+Pretty simple to use. 
 
 Also comes with a shortcode which you can use anywhere of your wordpress site. ([themencode-fb-page-widget])
 
-<a href="http://l.themencode.com/ffpwdemo">Live Demo</a>  
+<a href="http://l.themencode.com/ffpwvideo"> Video Overview</a> | <a href="http://l.themencode.com/ffpwsc"> Shortcode Generator</a> | <a href="http://l.themencode.com/ffpwdemo">Live Demo</a> 
 
 <h3>Features :</h3>
 * Very Easy to use
