@@ -1,7 +1,7 @@
 === Facebook Fan Page Widget ===
 Contributors: ThemeNcode, sagordpi, mamb2b
 Donate link: http://goo.gl/0bwB6m
-Tags: Facebook Like Box, New Fan Page Widget, Facebook Page Plugin, Facebook Page Like Box
+Tags: Facebook Like Box, New Fan Page Widget, Facebook Page Plugin, Facebook Page Like Box, Facebook Likebox, Facebook, Facebook Likebox Shortcode, Facebook Like Box Widget
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.0
