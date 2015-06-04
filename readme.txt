@@ -1,7 +1,7 @@
 === Facebook Fan Page Widget ===
 Contributors: ThemeNcode, sagordpi, mamb2b
 Donate link: http://goo.gl/0bwB6m
-Tags: Facebook Like Box, New Fan Page Widget, Facebook Page Plugin, Facebook Page Like Box
+Tags: Facebook Like Box, New Fan Page Widget, Facebook Page Plugin, Facebook Page Like Box, Facebook Likebox, Facebook, Facebook Likebox Shortcode, Facebook Like Box Widget, Add Facebook Likebox to WordPress
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.0
@@ -14,13 +14,11 @@ An widget that will display Facebook Fan page like box. Uses new API of Facebook
 
 Facebook Fan Page widget comes with an widget that you can use on any widget areas. You can set Facebook Page url, Width, Height and other options.
 
-Pretty simple to use.
-
-<a href="http://l.themencode.com/ffpwvideo"> Video Overview</a>
+Pretty simple to use. 
 
 Also comes with a shortcode which you can use anywhere of your wordpress site. ([themencode-fb-page-widget])
 
-<a href="http://l.themencode.com/ffpwdemo">Live Demo</a>  
+<a href="http://l.themencode.com/ffpwvideo"> Video Overview</a> | <a href="http://l.themencode.com/ffpwsc"> Shortcode Generator</a> | <a href="http://l.themencode.com/ffpwdemo">Live Demo</a> 
 
 <h3>Features :</h3>
 * Very Easy to use
@@ -57,10 +55,26 @@ Installing this plugin is pretty simple like all other wordpress plugins. Here a
 
 == Frequently Asked Questions == 
 = How can I Show it on my Website ? =
+There are 2 ways to show Facebook Like Box on your wordpress site:
+
+A. To display as widget:
+
 * Go To Widgets page and drag Facebook Fan Page Widget to an Widget area.
 * Select the options and Save
 * The Widget will be showed on your website!
 
+B. To Display with shortcode:
+
+* <a href="http://l.themencode.com/ffpwsc" target="_blank">Click here </a> to go to shortcode generator
+* Put your information in the fields and click on Generate shortcode button below.
+* Copy the shortcode that you'll get in a textarea below the button
+* Paste it on any page/post of your wordpress site!
+
+= Does it require any API key ? =
+No, you do not need to have any API key from facebook. as it is not mandatory to use an API key. Just put your page url and enjoy!
+
+= I have a question, would you help ? =
+Of course, Please use the support forum on wordpress.org or feel free to <a href="http://themencode.com/contact" target="_blank">contact us</a>.
 
 == Screenshots ==
 
@@ -69,7 +83,8 @@ Installing this plugin is pretty simple like all other wordpress plugins. Here a
 
 == Changelog === 
 
-1.0 =* First Release.
+= 1.0 =
+* First Release.
 
 == Upgrade Notice ==
 
