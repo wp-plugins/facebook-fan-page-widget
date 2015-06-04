@@ -1,7 +1,7 @@
 === Facebook Fan Page Widget ===
 Contributors: ThemeNcode, sagordpi, mamb2b
 Donate link: http://goo.gl/0bwB6m
-Tags: Facebook Like Box, New Fan Page Widget, Facebook Page Plugin, Facebook Page Like Box, Facebook Likebox, Facebook, Facebook Likebox Shortcode, Facebook Like Box Widget
+Tags: Facebook Like Box, New Fan Page Widget, Facebook Page Plugin, Facebook Page Like Box, Facebook Likebox, Facebook, Facebook Likebox Shortcode, Facebook Like Box Widget, Add Facebook Likebox to WordPress
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.0
@@ -55,10 +55,26 @@ Installing this plugin is pretty simple like all other wordpress plugins. Here a
 
 == Frequently Asked Questions == 
 = How can I Show it on my Website ? =
+There are 2 ways to show Facebook Like Box on your wordpress site:
+
+A. To display as widget:
+
 * Go To Widgets page and drag Facebook Fan Page Widget to an Widget area.
 * Select the options and Save
 * The Widget will be showed on your website!
 
+B. To Display with shortcode:
+
+* <a href="http://l.themencode.com/ffpwsc" target="_blank">Click here </a> to go to shortcode generator
+* Put your information in the fields and click on Generate shortcode button below.
+* Copy the shortcode that you'll get in a textarea below the button
+* Paste it on any page/post of your wordpress site!
+
+= Does it require any API key ? =
+No, you do not need to have any API key from facebook. as it is not mandatory to use an API key. Just put your page url and enjoy!
+
+= I have a question, would you help ? =
+Of course, Please use the support forum on wordpress.org or feel free to <a href="http://themencode.com/contact" target="_blank">contact us</a>.
 
 == Screenshots ==
 
@@ -67,7 +83,8 @@ Installing this plugin is pretty simple like all other wordpress plugins. Here a
 
 == Changelog === 
 
-1.0 =* First Release.
+= 1.0 =
+* First Release.
 
 == Upgrade Notice ==
 
