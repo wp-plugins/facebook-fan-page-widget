@@ -3,14 +3,12 @@
 * Plugin Name: Facebook Fan Page Widget
 * Plugin URI: http://themencode.com/facebook-fan-page-widget-free-wordpress-plugin/
 * Description: An widget that will display Facebook Fan page like box. Uses new API of Facebook (v 2.3)
-* Version: 1.0 
+* Version: 1.1 
 * Author: ThemeNcode
-* Author URI: http://www.themencode.com/
-* License: GUP
+* Author URI: http://themencode.com/
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
-
-define('FFPW_PLUGIN_NAME','Facebook Fan Page Widget');
-define('FFPW_PLUGIN_DIR', 'facebook-fan-page-widget');
 
 // Add Scripts to header
 
@@ -186,6 +184,10 @@ class FFPW_SOCIAL extends WP_Widget {
 		<label for="<?php echo $this->get_field_id( 'ffpw_fb_posts' ); ?>-true">Yes</label>
 		<input type="radio" id="<?php echo $this->get_field_id( 'ffpw_fb_posts' ); ?>-false" name="<?php echo $this->get_field_name( 'ffpw_fb_posts' ); ?>" value="false" <?php if($ffpw_posts_setting == "false"){echo ' checked="checked" ';} else {echo '';} ?> />
 		<label for="<?php echo $this->get_field_id( 'ffpw_fb_posts' ); ?>-false">No</label>
+	</p>
+
+	<p style="text-align: center;">
+		<strong>TRENDING: </strong><a href="http://codecanyon.net/item/pdf-viewer-for-wordpress/8182815?ref=ThemeNcode" target="_blank">PDF Viewer for WordPress [Plugin]</a>
 	</p>
 		<?php 
 	}
