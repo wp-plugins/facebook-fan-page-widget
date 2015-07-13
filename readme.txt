@@ -12,9 +12,9 @@ An widget that will display Facebook Fan page like box. Uses latest API of Faceb
 
 == Description ==
 
-Facebook Fan Page widget comes with an widget that you can use on any widget areas. You can set Facebook Page url, Width, Height and other options.
+Facebook Fan Page widget comes with an widget that you can use on any widget areas. You can set Facebook Page url, Width, Height and other options. Pretty simple to use.
 
-Pretty simple to use. 
+<strong>Best part of this plugin is you don't have to create any facebook application. Just install the plugin, put in your page url and nothing more...!</strong>
 
 Also comes with a shortcode which you can use anywhere of your wordpress site. ([themencode-fb-page-widget])
 
