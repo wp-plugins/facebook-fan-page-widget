@@ -3,7 +3,7 @@ Contributors: ThemeNcode, sagordpi, mamb2b
 Donate link: http://goo.gl/0bwB6m
 Tags: Facebook Like Box, New Fan Page Widget, Facebook Page Plugin, Facebook Page Like Box, Facebook Likebox, Facebook, Facebook Likebox Shortcode, Facebook Like Box Widget, Add Facebook Likebox to WordPress
 Requires at least: 3.0
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
